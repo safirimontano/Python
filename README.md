@@ -1,2 +1,2 @@
 # Python
-Análises com python
+Análises, projetos e exercícios com python.
